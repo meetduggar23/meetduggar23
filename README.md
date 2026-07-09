@@ -125,10 +125,8 @@ Dynamic EJS template rendering engine with automated PDF generation and Chart.js
 </tr>
 <tr>
 <td align="center"><b>Tools</b></td>
-<td>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,cursor&theme=dark" />
-  <img src="https://img.shields.io/badge/Antigravity-1a3d1a?style=for-the-badge&logoColor=7dd3fc&labelColor=000000" />
-</td>
+<td><img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" /></td>
+</tr>
 </tr>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a3d1a,100:000000&height=2&section=header" width="100%"/>
