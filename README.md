@@ -142,13 +142,13 @@ Dynamic EJS template rendering engine with automated PDF generation and Chart.js
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=meetduggar23&theme=nord&hide_border=true&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc&background=000000" width="60%"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=meetduggar23&theme=nord&no-frame=true&row=1&column=6&margin-w=8" width="98%"/>
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=meetduggar23&theme=nord&no-frame=true&row=1&column=6&margin-w=8" width="98%"/> -->
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=meetduggar23&theme=nord&hide_border=true&bg_color=000000&color=7dd3fc&line=7dd3fc&point=c9d1d9" width="98%"/>
 
 </div>
 
-<!-- <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1a3d1a&height=2&section=header" width="100%"/> -->
+<!-- <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1a3d1a&height=2&section=header" width="100%"/>  -->
 
 <br/>
 
