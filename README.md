@@ -16,6 +16,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1a3d1a&height=2&section=header" width="100%"/>
 
 <br/>
+
 ## ⟡ About
 
 Full stack software developer focused on building reliable, well-structured web applications — from responsive front-end interfaces to backend services and document/reporting pipelines. Comfortable working across the stack, with particular interest in developer tooling, clean architecture, and template-driven systems that generate real-world documents at scale.
@@ -24,7 +25,7 @@ Full stack software developer focused on building reliable, well-structured web 
 <tr>
 <td>
 
-\`\`\`ts
+```ts
 interface Developer {
   name: string;
   role: string;
@@ -74,7 +75,7 @@ const meet: Developer = {
 };
 
 export default meet;
-\`\`\`
+```
 
 </td>
 </tr>
