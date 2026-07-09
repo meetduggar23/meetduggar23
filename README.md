@@ -125,9 +125,14 @@ Dynamic EJS template rendering engine with automated PDF generation and Chart.js
 </tr>
 <tr>
 <td align="center"><b>Tools</b></td>
-<td><img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" /></td>
+<td>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cursor/cursor-original.svg" width="48" height="48" alt="Cursor" style="background: #000; border-radius: 8px; padding: 4px;" />
+  <img src="https://antigravity.com/favicon.ico" width="48" height="48" alt="Antigravity" style="background: #000; border-radius: 8px; padding: 4px;" />
+</td>
 </tr>
 </tr>
+</table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a3d1a,100:000000&height=2&section=header" width="100%"/>
 
