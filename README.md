@@ -62,11 +62,11 @@ const meet = {
 <tr>
 <td width="50%" valign="top">
 
-### <img src="assets/word-lite-logo.png" width="22" valign="middle"/> Word Lite
+### <img src="https://raw.githubusercontent.com/meetduggar23/meetduggar23/main/word-lite-logo.png" width="22" valign="middle"/> Word Lite
 
 Modern document editor inspired by MS Word, built with a focus on clean UX and robust editing capabilities.
 
-<img src="assets/word-lite-screenshot.png" width="100%"/>
+<img src="https://raw.githubusercontent.com/meetduggar23/meetduggar23/main/word-lite-screenshot.png" width="100%"/>
 
 **Stack**
 
@@ -91,7 +91,7 @@ Modern document editor inspired by MS Word, built with a focus on clean UX and r
 
 Dynamic EJS template rendering engine with automated PDF generation and Chart.js-driven data visualization.
 
-<img src="assets/ejs-transformer-screenshot.png" width="100%"/>
+<img src="https://raw.githubusercontent.com/meetduggar23/meetduggar23/main/ejs-transformer-screenshot.png" width="100%"/>
 
 **Stack**
 
