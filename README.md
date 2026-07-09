@@ -148,7 +148,7 @@ Dynamic EJS template rendering engine with automated PDF generation and Chart.js
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1a3d1a&height=2&section=header" width="100%"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1a3d1a&height=2&section=header" width="100%"/> -->
 
 <br/>
 
