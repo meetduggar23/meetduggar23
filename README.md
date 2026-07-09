@@ -55,7 +55,7 @@ Modern document editor inspired by MS Word, built with a focus on clean UX and r
 
 <div align="left">
 
-[![Repository](https://img.shields.io/badge/Repository-View%20Code-1a3d1a?style=for-the-badge&logo=github&logoColor=7dd3fc&labelColor=000000)](https://github.com/meetduggar23/Word_Doc)
+[![Repository]https://github.com/meetduggar23/Word_Doc)]
 
 </div>
 
