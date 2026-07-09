@@ -18,25 +18,24 @@
 
 ## About
 
-```ts
 const meet = {
-  title: "Full Stack Software Developer",
+  name: "Meet Duggar",
+  role: "Full Stack Software Developer",
   location: "India",
-  currentlyBuilding: [
+
+  building: [
     "Word Lite",
     "HTML EJS Transformer"
   ],
-  technologies: {
-    languages: ["JavaScript", "TypeScript", "Python", "Java", "SQL", "HTML", "CSS"],
-    frontend: ["React", "HTML", "CSS", "EJS"],
-    backend: ["Node.js", "Express.js", "Django", "Django REST Framework"],
-    database: ["PostgreSQL"],
-    cloud: ["AWS S3", "Django Channels"],
-  },
-  tools: ["Git", "GitHub", "VS Code", "Puppeteer", "Chart.js"],
-  openSource: true,
+
+  focus: [
+    "Scalable Web Applications",
+    "Backend Development",
+    "Developer Experience"
+  ],
+
+  openSource: true
 };
-```
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a3d1a,100:000000&height=3&section=header" width="100%"/>
 
