@@ -82,7 +82,7 @@ Modern document editor inspired by MS Word, built with a focus on clean UX and r
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=meetduggar23&repo=Word_Doc&theme=nord&hide_border=true&title_color=7dd3fc&text_color=c9d1d9&bg_color=000000&border_color=1a3d1a" width="100%"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api/pin/?username=meetduggar23&repo=Word_Doc&theme=nord&hide_border=true&title_color=7dd3fc&text_color=c9d1d9&bg_color=000000&border_color=1a3d1a" width="100%"/> -->
 
 </td>
 <td width="50%" valign="top">
