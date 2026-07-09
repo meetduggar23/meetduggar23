@@ -1,9 +1,7 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d1f0d,100:1a3d1a&height=210&section=header&text=MEET%20DUGGAR&fontSize=44&fontColor=7dd3fc&fontAlignY=36&desc=Full%20Stack%20Software%20Developer&descAlignY=54&descSize=17&descColor=8a9a8a" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Software+Development;&font=JetBrains+Mono&center=true&width=460&height=35&color=7dd3fc&vCenter=true&size=18&pause=100000&repeat=false&weight=500"/>
-
+<!-- <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Software+Development;&font=JetBrains+Mono&center=true&width=460&height=35&color=7dd3fc&vCenter=true&size=18&pause=100000&repeat=false&weight=500"/> -->
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=meetduggar23&style=flat-square&color=1a3d1a&labelColor=000000" height="26"/>
