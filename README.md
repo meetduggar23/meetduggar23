@@ -62,9 +62,11 @@ const meet = {
 <tr>
 <td width="50%" valign="top">
 
-### Word Lite
+### <img src="assets/word-lite-logo.png" width="22" valign="middle"/> Word Lite
 
 Modern document editor inspired by MS Word, built with a focus on clean UX and robust editing capabilities.
+
+<img src="assets/word-lite-screenshot.png" width="100%"/>
 
 **Stack**
 
@@ -88,6 +90,8 @@ Modern document editor inspired by MS Word, built with a focus on clean UX and r
 ### HTML EJS Transformer
 
 Dynamic EJS template rendering engine with automated PDF generation and Chart.js-driven data visualization.
+
+<img src="assets/ejs-transformer-screenshot.png" width="100%"/>
 
 **Stack**
 
