@@ -16,33 +16,65 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1a3d1a&height=2&section=header" width="100%"/>
 
 <br/>
-
 ## ⟡ About
+
+Full stack software developer focused on building reliable, well-structured web applications — from responsive front-end interfaces to backend services and document/reporting pipelines. Comfortable working across the stack, with particular interest in developer tooling, clean architecture, and template-driven systems that generate real-world documents at scale.
 
 <table width="100%">
 <tr>
 <td>
 
-```ts
-const meet = {
+\`\`\`ts
+interface Developer {
+  name: string;
+  role: string;
+  location: string;
+  repositories: string[];
+  expertise: string[];
+  principles: string[];
+  currentlyBuilding: string[];
+  openSource: boolean;
+  status: "available" | "unavailable";
+}
+
+const meet: Developer = {
   name: "Meet Duggar",
   role: "Full Stack Software Developer",
   location: "India",
 
-  building: [
-    "Word Lite",
-    "HTML EJS Transformer",
+  repositories: [
+    "Word_Doc",
+    "EJS_templates_PDF_generation",
+    "CarCure",
+    "AI-ImageChecker",
+    "DJANGO",
+    "resumecritique",
   ],
 
-  focus: [
-    "Scalable Web Applications",
-    "Backend Development",
-    "Developer Experience",
+  expertise: [
+    "Web Application Development",
+    "Backend API Design",
+    "Template-Driven Document Generation",
+    "PDF & Report Rendering Pipelines",
+  ],
+
+  principles: [
+    "Clean, maintainable code",
+    "Scalable architecture",
+    "Strong developer experience",
+  ],
+
+  currentlyBuilding: [
+    "Word Lite — MS Word-inspired document editor",
+    "HTML EJS Transformer — dynamic PDF & chart rendering engine",
   ],
 
   openSource: true,
+  status: "available",
 };
-```
+
+export default meet;
+\`\`\`
 
 </td>
 </tr>
