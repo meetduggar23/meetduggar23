@@ -127,10 +127,9 @@ Dynamic EJS template rendering engine with automated PDF generation and Chart.js
 <td align="center"><b>Tools</b></td>
 <td>
   <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cursor/cursor-original.svg" width="48" height="48" alt="Cursor" style="background: #000; border-radius: 8px; padding: 4px;" />
-  <img src="https://antigravity.com/favicon.ico" width="48" height="48" alt="Antigravity" style="background: #000; border-radius: 8px; padding: 4px;" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" height="48" />
+  <img src="https://img.shields.io/badge/Antigravity-000000?style=for-the-badge&logo=antigravity&logoColor=white" height="48" />
 </td>
-</tr>
 </tr>
 </table>
 
