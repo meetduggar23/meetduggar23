@@ -22,63 +22,14 @@
 Full stack software developer focused on building reliable, well-structured web applications — from responsive front-end interfaces to backend services and document/reporting pipelines. Comfortable working across the stack, with particular interest in developer tooling, clean architecture, and template-driven systems that generate real-world documents at scale.
 
 <table width="100%">
-<tr>
-<td>
-
-```ts
-interface Developer {
-  name: string;
-  role: string;
-  location: string;
-  repositories: string[];
-  expertise: string[];
-  principles: string[];
-  currentlyBuilding: string[];
-  openSource: boolean;
-  status: "available" | "unavailable";
-}
-
-const meet: Developer = {
-  name: "Meet Duggar",
-  role: "Full Stack Software Developer",
-  location: "India",
-
-  repositories: [
-    "Word_Doc",
-    "EJS_templates_PDF_generation",
-    "CarCure",
-    "AI-ImageChecker",
-    "DJANGO",
-    "resumecritique",
-  ],
-
-  expertise: [
-    "Web Application Development",
-    "Backend API Design",
-    "Template-Driven Document Generation",
-    "PDF & Report Rendering Pipelines",
-  ],
-
-  principles: [
-    "Clean, maintainable code",
-    "Scalable architecture",
-    "Strong developer experience",
-  ],
-
-  currentlyBuilding: [
-    "Word Lite — MS Word-inspired document editor",
-    "HTML EJS Transformer — dynamic PDF & chart rendering engine",
-  ],
-
-  openSource: true,
-  status: "available",
-};
-
-export default meet;
-```
-
-</td>
-</tr>
+<tr><td width="22%"><b>Role</b></td><td>Full Stack Software Developer</td></tr>
+<tr><td><b>Location</b></td><td>India</td></tr>
+<tr><td><b>Focus Areas</b></td><td>Web Application Development · Backend API Design · Template-Driven Document Generation · PDF & Report Rendering Pipelines</td></tr>
+<tr><td><b>Principles</b></td><td>Clean, maintainable code · Scalable architecture · Strong developer experience</td></tr>
+<tr><td><b>Currently Building</b></td><td>Word Lite — MS Word-inspired document editor · HTML EJS Transformer — dynamic PDF & chart rendering engine</td></tr>
+<tr><td><b>Repositories</b></td><td>Word_Doc · EJS_templates_PDF_generation · CarCure · AI-ImageChecker · DJANGO · resumecritique</td></tr>
+<tr><td><b>Open Source</b></td><td>Yes</td></tr>
+<tr><td><b>Status</b></td><td>Available</td></tr>
 </table>
 
 <br/>
