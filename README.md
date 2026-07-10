@@ -1,6 +1,15 @@
 <div align="center">
 
+<table width="100%">
+<tr>
+<td width="60" valign="top">
+<img src="https://raw.githubusercontent.com/meetduggar23/meetduggar23/main/word-lite-logo.png" width="48"/>
+</td>
+<td>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d1f0d,100:1a3d1a&height=210&section=header&text=MEET%20DUGGAR&fontSize=44&fontColor=7dd3fc&fontAlignY=36&desc=Full%20Stack%20Software%20Developer&descAlignY=54&descSize=17&descColor=8a9a8a" width="100%"/>
+</td>
+</tr>
+</table>
 <!-- <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Software+Development;&font=JetBrains+Mono&center=true&width=460&height=35&color=7dd3fc&vCenter=true&size=18&pause=100000&repeat=false&weight=500"/> -->
 <br/><br/>
 
@@ -145,8 +154,8 @@ Dynamic EJS template rendering engine with automated PDF generation and Chart.js
 
 <div align="center">
 
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=meetduggar23&show_icons=true&theme=nord&hide_border=true&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9&bg_color=000000" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meetduggar23&layout=compact&theme=nord&hide_border=true&title_color=7dd3fc&text_color=c9d1d9&bg_color=000000" width="48%"/> -->
+<img src="https://github-readme-stats.vercel.app/api?username=meetduggar23&show_icons=true&theme=nord&hide_border=true&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9&bg_color=000000" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meetduggar23&layout=compact&theme=nord&hide_border=true&title_color=7dd3fc&text_color=c9d1d9&bg_color=000000" width="48%"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=meetduggar23&theme=nord&hide_border=true&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc&background=000000" width="60%"/>
 
