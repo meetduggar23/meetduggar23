@@ -130,7 +130,7 @@ Dynamic EJS template rendering engine with automated PDF generation and Chart.js
 <td>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,eclipse&theme=dark" />
 <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/antigravity.svg" height="48" title="Antigravity" />
-<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/cursor.svg" height="48" title="Cursor" />
+<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/cursor.svg" height="200" title="Cursor" />
 </td>
 </tr>
 </table>
