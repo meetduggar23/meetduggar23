@@ -71,7 +71,7 @@ Modern document editor inspired by MS Word, built with a focus on clean UX and r
 </td>
 <td width="50%" valign="top">
 
-<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/meetduggar23/meetduggar23/main/word-lite-logo.png" width="40"/>
 
 ### HTML EJS Transformer
 
