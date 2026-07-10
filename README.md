@@ -70,14 +70,12 @@ Modern document editor inspired by MS Word, built with a focus on clean UX and r
 
 </td>
 <td width="50%" valign="top">
-</td>
-<br>
-</br>
+
+<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==" width="40" height="40"/>
 
 ### HTML EJS Transformer
 
 Dynamic EJS template rendering engine with automated PDF generation and Chart.js-driven data visualization.
-</br>
 
 <img src="https://raw.githubusercontent.com/meetduggar23/meetduggar23/main/ejs-transformer-screenshot.png" width="100%"/>
 
@@ -97,6 +95,10 @@ Dynamic EJS template rendering engine with automated PDF generation and Chart.js
 <br/><br/>
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/pin/?username=meetduggar23&repo=EJS_templates_PDF_generation&theme=nord&hide_border=true&title_color=7dd3fc&text_color=c9d1d9&bg_color=000000&border_color=1a3d1a" width="100%"/> -->
+
+</td>
+</tr>
+</table>
 
 </td>
 </tr>
