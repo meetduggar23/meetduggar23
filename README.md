@@ -44,7 +44,9 @@ Full stack software developer focused on building reliable, well-structured web 
 <tr>
 <td width="50%" valign="top">
 
-### <img src="https://raw.githubusercontent.com/meetduggar23/meetduggar23/main/word-lite-logo.png" width="22" valign="middle"/> Word Lite
+<img src="https://raw.githubusercontent.com/meetduggar23/meetduggar23/main/word-lite-logo.png" width="40"/>
+
+### Word Lite
 
 Modern document editor inspired by MS Word, built with a focus on clean UX and robust editing capabilities.
 
@@ -105,7 +107,7 @@ Dynamic EJS template rendering engine with automated PDF generation and Chart.js
 <table width="100%">
 <tr>
 <td width="16%" align="center"><b>Languages</b></td>
-<td><img src="https://skillicons.dev/icons?i=js,ts,py,java,mysql,html,css&theme=dark" /></td>
+<td><img src="https://skillicons.dev/icons?i=js,ts,py,java,kotlin,html,css&theme=dark" /></td>
 </tr>
 <tr>
 <td align="center"><b>Frontend</b></td>
@@ -117,7 +119,7 @@ Dynamic EJS template rendering engine with automated PDF generation and Chart.js
 </tr>
 <tr>
 <td align="center"><b>Database</b></td>
-<td><img src="https://skillicons.dev/icons?i=postgres&theme=dark" /></td>
+<td><img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" /></td>
 </tr>
 <tr>
 <td align="center"><b>Cloud</b></td>
@@ -125,11 +127,7 @@ Dynamic EJS template rendering engine with automated PDF generation and Chart.js
 </tr>
 <tr>
 <td align="center"><b>Tools</b></td>
-<td>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cursor/cursor-original.svg" width="48" height="48" alt="Cursor" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/antigravity/antigravity-original.svg" width="48" height="48" alt="Antigravity" />
-</td>
+<td><img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,eclipse&theme=dark" /></td>
 </tr>
 </table>
 
@@ -141,18 +139,18 @@ Dynamic EJS template rendering engine with automated PDF generation and Chart.js
 
 <div align="center">
 
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=meetduggar23&show_icons=true&theme=nord&hide_border=true&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9&bg_color=000000" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meetduggar23&layout=compact&theme=nord&hide_border=true&title_color=7dd3fc&text_color=c9d1d9&bg_color=000000" width="48%"/> -->
+<img src="https://github-readme-stats.vercel.app/api?username=meetduggar23&show_icons=true&theme=nord&hide_border=true&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9&bg_color=000000" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meetduggar23&layout=compact&theme=nord&hide_border=true&title_color=7dd3fc&text_color=c9d1d9&bg_color=000000" width="48%"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=meetduggar23&theme=nord&hide_border=true&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc&background=000000" width="60%"/>
 
-<!-- <img src="https://github-profile-trophy.vercel.app/?username=meetduggar23&theme=nord&no-frame=true&row=1&column=6&margin-w=8" width="98%"/> -->
+<img src="https://github-profile-trophy.vercel.app/?username=meetduggar23&theme=nord&no-frame=true&row=1&column=6&margin-w=8" width="98%"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=meetduggar23&theme=nord&hide_border=true&bg_color=000000&color=7dd3fc&line=7dd3fc&point=c9d1d9" width="98%"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1a3d1a&height=2&section=header" width="100%"/> 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1a3d1a&height=2&section=header" width="100%"/>
 
 <br/>
 
