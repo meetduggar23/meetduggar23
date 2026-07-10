@@ -127,30 +127,17 @@ Dynamic EJS template rendering engine with automated PDF generation and Chart.js
 </tr>
 <tr>
 <td align="center"><b>Tools</b></td>
-<td><img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,eclipse&theme=dark" /></td>
+<td>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,eclipse&theme=dark" />
+<img src="https://img.shields.io/badge/Antigravity-1a3d1a?style=for-the-badge&labelColor=000000&logoColor=7dd3fc" />
+<img src="https://img.shields.io/badge/Cursor-1a3d1a?style=for-the-badge&labelColor=000000&logoColor=7dd3fc" />
+</td>
 </tr>
 </table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a3d1a,100:000000&height=2&section=header" width="100%"/>
 
 <br/>
-
-## ⟡ GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=meetduggar23&show_icons=true&theme=nord&hide_border=true&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9&bg_color=000000" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meetduggar23&layout=compact&theme=nord&hide_border=true&title_color=7dd3fc&text_color=c9d1d9&bg_color=000000" width="48%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=meetduggar23&theme=nord&hide_border=true&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc&background=000000" width="60%"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=meetduggar23&theme=nord&no-frame=true&row=1&column=6&margin-w=8" width="98%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=meetduggar23&theme=nord&hide_border=true&bg_color=000000&color=7dd3fc&line=7dd3fc&point=c9d1d9" width="98%"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1a3d1a&height=2&section=header" width="100%"/>
 
 <br/>
 
