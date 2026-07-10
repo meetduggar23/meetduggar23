@@ -129,8 +129,8 @@ Dynamic EJS template rendering engine with automated PDF generation and Chart.js
 <td align="center"><b>Tools</b></td>
 <td>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,eclipse&theme=dark" />
-<img src="https://img.shields.io/badge/Antigravity-1a3d1a?style=for-the-badge&labelColor=000000&logoColor=7dd3fc" />
-<img src="https://img.shields.io/badge/Cursor-1a3d1a?style=for-the-badge&labelColor=000000&logoColor=7dd3fc" />
+<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/antigravity.svg" height="48" title="Antigravity" />
+<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/cursor.svg" height="48" title="Cursor" />
 </td>
 </tr>
 </table>
