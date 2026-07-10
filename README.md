@@ -74,6 +74,7 @@ Modern document editor inspired by MS Word, built with a focus on clean UX and r
 ### HTML EJS Transformer
 
 Dynamic EJS template rendering engine with automated PDF generation and Chart.js-driven data visualization.
+</br>
 
 <img src="https://raw.githubusercontent.com/meetduggar23/meetduggar23/main/ejs-transformer-screenshot.png" width="100%"/>
 
