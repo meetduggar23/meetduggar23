@@ -70,6 +70,9 @@ Modern document editor inspired by MS Word, built with a focus on clean UX and r
 
 </td>
 <td width="50%" valign="top">
+</td>
+<br>
+</br>
 
 ### HTML EJS Transformer
 
