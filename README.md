@@ -42,6 +42,7 @@ Full stack software developer focused on building reliable, well-structured web 
 <td width="50%" valign="top" align="center">
 <img src="https://raw.githubusercontent.com/meetduggar23/meetduggar23/main/word-lite-logo.png" width="32"/><br/>
 <b>Word Lite</b><br/><br/>
+<img src="https://raw.githubusercontent.com/meetduggar23/meetduggar23/main/word-lite-screenshot.png" width="100%"/><br/><br/>
 <sub>Modern document editor inspired by MS Word, built with a focus on clean UX and robust editing capabilities.</sub><br/><br/>
 <sub><b>Stack:</b> React · Node.js · Express.js</sub><br/><br/>
 <a href="https://github.com/meetduggar23/Word_Doc"><img src="https://img.shields.io/badge/Repository-View%20Code-1a3d1a?style=flat-square&logo=github&logoColor=7dd3fc&labelColor=000000" /></a>
@@ -49,6 +50,7 @@ Full stack software developer focused on building reliable, well-structured web 
 <td width="50%" valign="top" align="center">
 <img src="https://raw.githubusercontent.com/meetduggar23/meetduggar23/main/word-lite-logo.png" width="32"/><br/>
 <b>HTML EJS Transformer</b><br/><br/>
+<img src="https://raw.githubusercontent.com/meetduggar23/meetduggar23/main/ejs-transformer-screenshot.png" width="100%"/><br/><br/>
 <sub>Dynamic EJS template rendering engine with automated PDF generation and Chart.js-driven data visualization.</sub><br/><br/>
 <sub><b>Stack:</b> EJS · Puppeteer · Chart.js · Node.js</sub><br/><br/>
 <a href="https://github.com/meetduggar23/EJS_templates_PDF_generation"><img src="https://img.shields.io/badge/Repository-View%20Code-1a3d1a?style=flat-square&logo=github&logoColor=7dd3fc&labelColor=000000" /></a>
