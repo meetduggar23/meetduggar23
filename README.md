@@ -126,6 +126,16 @@ Full stack software developer focused on building reliable, well-structured web 
 
 <br/>
 
+## ⟡ Profile Views
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=meetduggar23&style=for-the-badge&color=1a3d1a&labelColor=000000&label=Total+Profile+Views" height="32"/>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a3d1a,100:000000&height=2&section=header" width="100%"/>
+
+<br/>
+
 ## ⟡ Connect
 
 <div align="center">
