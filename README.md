@@ -3,7 +3,7 @@
   <!-- <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Software+Development;&font=JetBrains+Mono&center=true&width=460&height=35&color=7dd3fc&vCenter=true&size=18&pause=100000&repeat=false&weight=500"/> -->
   <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=meetduggar23&style=flat-square&color=1a3d1a&labelColor=000000&label=Profile+Views" height="26"/>
-  <img src="https://img.shields.io/github/followers/meetduggar23?style=flat-square&color=1a3d1a&labelColor=000000&logo=github&logoColor=7dd3fc&label=Followers" height="26"/>
+  <!-- <img src="https://img.shields.io/github/followers/meetduggar23?style=flat-square&color=1a3d1a&labelColor=000000&logo=github&logoColor=7dd3fc&label=Followers" height="26"/> -->
   <img src="https://img.shields.io/github/stars/meetduggar23?style=flat-square&color=1a3d1a&labelColor=000000&logo=github&logoColor=7dd3fc&label=Stars" height="26"/>
   <img src="https://img.shields.io/badge/Location-India-1a3d1a?style=flat-square&labelColor=000000&logoColor=7dd3fc" height="26"/>
 </div>
